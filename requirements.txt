@@ -66,3 +66,7 @@ traitlets==5.14.1
 typing_extensions==4.10.0
 tzdata==2024.1
 wcwidth==0.2.13
+black==24.4.2
+pytest==8.1.1
+pylint==3.2.5
+docker==7.1.0
